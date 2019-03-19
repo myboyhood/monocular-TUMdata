@@ -43,10 +43,10 @@ RM = /home/wzy/software/clion-2018.2.5/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/wzy/slambook/ch9/0.2(version0.1)"
+CMAKE_SOURCE_DIR = "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include src/CMakeFiles/myslam.dir/depend.make
@@ -59,68 +59,68 @@ include src/CMakeFiles/myslam.dir/flags.make
 
 src/CMakeFiles/myslam.dir/frame.cpp.o: src/CMakeFiles/myslam.dir/flags.make
 src/CMakeFiles/myslam.dir/frame.cpp.o: ../src/frame.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/myslam.dir/frame.cpp.o"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myslam.dir/frame.cpp.o -c "/home/wzy/slambook/ch9/0.2(version0.1)/src/frame.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/myslam.dir/frame.cpp.o"
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myslam.dir/frame.cpp.o -c "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/frame.cpp"
 
 src/CMakeFiles/myslam.dir/frame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myslam.dir/frame.cpp.i"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wzy/slambook/ch9/0.2(version0.1)/src/frame.cpp" > CMakeFiles/myslam.dir/frame.cpp.i
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/frame.cpp" > CMakeFiles/myslam.dir/frame.cpp.i
 
 src/CMakeFiles/myslam.dir/frame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myslam.dir/frame.cpp.s"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wzy/slambook/ch9/0.2(version0.1)/src/frame.cpp" -o CMakeFiles/myslam.dir/frame.cpp.s
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/frame.cpp" -o CMakeFiles/myslam.dir/frame.cpp.s
 
 src/CMakeFiles/myslam.dir/mappoint.cpp.o: src/CMakeFiles/myslam.dir/flags.make
 src/CMakeFiles/myslam.dir/mappoint.cpp.o: ../src/mappoint.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/myslam.dir/mappoint.cpp.o"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myslam.dir/mappoint.cpp.o -c "/home/wzy/slambook/ch9/0.2(version0.1)/src/mappoint.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/myslam.dir/mappoint.cpp.o"
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myslam.dir/mappoint.cpp.o -c "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/mappoint.cpp"
 
 src/CMakeFiles/myslam.dir/mappoint.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myslam.dir/mappoint.cpp.i"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wzy/slambook/ch9/0.2(version0.1)/src/mappoint.cpp" > CMakeFiles/myslam.dir/mappoint.cpp.i
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/mappoint.cpp" > CMakeFiles/myslam.dir/mappoint.cpp.i
 
 src/CMakeFiles/myslam.dir/mappoint.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myslam.dir/mappoint.cpp.s"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wzy/slambook/ch9/0.2(version0.1)/src/mappoint.cpp" -o CMakeFiles/myslam.dir/mappoint.cpp.s
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/mappoint.cpp" -o CMakeFiles/myslam.dir/mappoint.cpp.s
 
 src/CMakeFiles/myslam.dir/camera.cpp.o: src/CMakeFiles/myslam.dir/flags.make
 src/CMakeFiles/myslam.dir/camera.cpp.o: ../src/camera.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/myslam.dir/camera.cpp.o"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myslam.dir/camera.cpp.o -c "/home/wzy/slambook/ch9/0.2(version0.1)/src/camera.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/myslam.dir/camera.cpp.o"
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myslam.dir/camera.cpp.o -c "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/camera.cpp"
 
 src/CMakeFiles/myslam.dir/camera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myslam.dir/camera.cpp.i"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wzy/slambook/ch9/0.2(version0.1)/src/camera.cpp" > CMakeFiles/myslam.dir/camera.cpp.i
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/camera.cpp" > CMakeFiles/myslam.dir/camera.cpp.i
 
 src/CMakeFiles/myslam.dir/camera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myslam.dir/camera.cpp.s"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wzy/slambook/ch9/0.2(version0.1)/src/camera.cpp" -o CMakeFiles/myslam.dir/camera.cpp.s
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/camera.cpp" -o CMakeFiles/myslam.dir/camera.cpp.s
 
 src/CMakeFiles/myslam.dir/config.cpp.o: src/CMakeFiles/myslam.dir/flags.make
 src/CMakeFiles/myslam.dir/config.cpp.o: ../src/config.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/myslam.dir/config.cpp.o"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myslam.dir/config.cpp.o -c "/home/wzy/slambook/ch9/0.2(version0.1)/src/config.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/myslam.dir/config.cpp.o"
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myslam.dir/config.cpp.o -c "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/config.cpp"
 
 src/CMakeFiles/myslam.dir/config.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myslam.dir/config.cpp.i"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wzy/slambook/ch9/0.2(version0.1)/src/config.cpp" > CMakeFiles/myslam.dir/config.cpp.i
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/config.cpp" > CMakeFiles/myslam.dir/config.cpp.i
 
 src/CMakeFiles/myslam.dir/config.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myslam.dir/config.cpp.s"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wzy/slambook/ch9/0.2(version0.1)/src/config.cpp" -o CMakeFiles/myslam.dir/config.cpp.s
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/config.cpp" -o CMakeFiles/myslam.dir/config.cpp.s
 
 src/CMakeFiles/myslam.dir/visual_odometry.cpp.o: src/CMakeFiles/myslam.dir/flags.make
 src/CMakeFiles/myslam.dir/visual_odometry.cpp.o: ../src/visual_odometry.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/myslam.dir/visual_odometry.cpp.o"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myslam.dir/visual_odometry.cpp.o -c "/home/wzy/slambook/ch9/0.2(version0.1)/src/visual_odometry.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/myslam.dir/visual_odometry.cpp.o"
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/myslam.dir/visual_odometry.cpp.o -c "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/visual_odometry.cpp"
 
 src/CMakeFiles/myslam.dir/visual_odometry.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/myslam.dir/visual_odometry.cpp.i"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wzy/slambook/ch9/0.2(version0.1)/src/visual_odometry.cpp" > CMakeFiles/myslam.dir/visual_odometry.cpp.i
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/visual_odometry.cpp" > CMakeFiles/myslam.dir/visual_odometry.cpp.i
 
 src/CMakeFiles/myslam.dir/visual_odometry.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/myslam.dir/visual_odometry.cpp.s"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wzy/slambook/ch9/0.2(version0.1)/src/visual_odometry.cpp" -o CMakeFiles/myslam.dir/visual_odometry.cpp.s
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/visual_odometry.cpp" -o CMakeFiles/myslam.dir/visual_odometry.cpp.s
 
 # Object files for target myslam
 myslam_OBJECTS = \
@@ -159,8 +159,8 @@ myslam_EXTERNAL_OBJECTS =
 ../lib/libmyslam.so: /usr/local/opencv3/lib/libopencv_imgproc.so.3.4.5
 ../lib/libmyslam.so: /usr/local/opencv3/lib/libopencv_core.so.3.4.5
 ../lib/libmyslam.so: src/CMakeFiles/myslam.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX shared library ../../lib/libmyslam.so"
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/myslam.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX shared library ../../lib/libmyslam.so"
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/myslam.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 src/CMakeFiles/myslam.dir/build: ../lib/libmyslam.so
@@ -168,10 +168,10 @@ src/CMakeFiles/myslam.dir/build: ../lib/libmyslam.so
 .PHONY : src/CMakeFiles/myslam.dir/build
 
 src/CMakeFiles/myslam.dir/clean:
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" && $(CMAKE_COMMAND) -P CMakeFiles/myslam.dir/cmake_clean.cmake
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" && $(CMAKE_COMMAND) -P CMakeFiles/myslam.dir/cmake_clean.cmake
 .PHONY : src/CMakeFiles/myslam.dir/clean
 
 src/CMakeFiles/myslam.dir/depend:
-	cd "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/wzy/slambook/ch9/0.2(version0.1)" "/home/wzy/slambook/ch9/0.2(version0.1)/src" "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug" "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src" "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)" "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src" "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug" "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src" "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : src/CMakeFiles/myslam.dir/depend
 

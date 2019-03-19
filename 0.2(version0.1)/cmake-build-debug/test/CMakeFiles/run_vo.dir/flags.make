@@ -6,5 +6,5 @@ CXX_FLAGS = -std=c++11 -march=native -O3 -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/usr/include/eigen3 -I/home/wzy/Sophus -I"/home/wzy/slambook/ch9/0.2(version0.1)/include" -isystem /usr/local/opencv3/include -isystem /usr/local/opencv3/include/opencv 
+CXX_INCLUDES = -I/usr/include/eigen3 -I/home/wzy/Sophus -I"/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/include" -isystem /usr/local/opencv3/include -isystem /usr/local/opencv3/include/opencv 
 

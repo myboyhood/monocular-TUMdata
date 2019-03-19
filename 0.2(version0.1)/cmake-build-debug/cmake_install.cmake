@@ -1,4 +1,4 @@
-# Install script for directory: /home/wzy/slambook/ch9/0.2(version0.1)
+# Install script for directory: /home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/cmake_install.cmake")
-  include("/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/test/cmake_install.cmake")
+  include("/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/cmake_install.cmake")
+  include("/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/test/cmake_install.cmake")
 
 endif()
 
@@ -52,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

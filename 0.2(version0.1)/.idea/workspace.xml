@@ -12,7 +12,31 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3807c28c-5bd3-4371-b706-fe2b03f21dc0" name="Default Changelist" comment="" />
+    <list default="true" id="3807c28c-5bd3-4371-b706-fe2b03f21dc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/myslam.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/myslam.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/CMakeFiles/myslam.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/CMakeFiles/myslam.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/CMakeFiles/myslam.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/CMakeFiles/myslam.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/CMakeFiles/myslam.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/CMakeFiles/myslam.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/run_vo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/run_vo.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/run_vo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/run_vo.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/run_vo.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/run_vo.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/run_vo.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/CMakeFiles/run_vo.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/test/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/test/cmake_install.cmake" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,17 +143,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-590653266">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/run_vo.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="140" selection-start-line="140" selection-end-line="140" />
-              <folding>
-                <element signature="e#57#75#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="234">
+              <caret line="96" column="10" lean-forward="true" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -137,7 +167,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/opencv3/include/opencv2/core/affine.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="3144">
               <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="34" />
               <folding>
                 <element signature="e#10443#10455#0" expanded="true" />
@@ -151,7 +181,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/opencv3/include/opencv2/core/mat.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
+            <state relative-caret-position="19608">
               <caret line="817" column="38" selection-start-line="817" selection-start-column="38" selection-end-line="817" selection-end-column="38" />
               <folding>
                 <element signature="e#19241#19255#0" expanded="true" />
@@ -163,13 +193,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/frame.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
+            <state relative-caret-position="1032">
               <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/myslam/frame.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -184,7 +214,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/include/myslam/visual_odometry.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="1032">
               <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
               <folding>
                 <element signature="e#836#870#0" expanded="true" />
@@ -196,7 +226,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/opencv3/include/opencv2/core/mat.inl.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="32784">
               <caret line="1366" selection-start-line="1366" selection-end-line="1366" />
             </state>
           </provider>
@@ -205,7 +235,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/opencv3/include/opencv2/core/matx.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
+            <state relative-caret-position="15912">
               <caret line="663" column="17" selection-start-line="663" selection-start-column="17" selection-end-line="663" selection-end-column="17" />
               <folding>
                 <element signature="e#4226#4254#0" expanded="true" />
@@ -217,7 +247,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/visual_odometry.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
+            <state relative-caret-position="5472">
               <caret line="228" selection-start-line="228" selection-end-line="228" />
             </state>
           </provider>
@@ -226,7 +256,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///usr/local/opencv3/include/opencv2/calib3d.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="39648">
               <caret line="1652" column="22" selection-start-line="1652" selection-start-column="22" selection-end-line="1652" selection-end-column="22" />
             </state>
           </provider>
@@ -245,7 +275,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -285,6 +315,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -327,7 +358,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -403,11 +433,12 @@
       <workItem from="1552783902583" duration="12481000" />
       <workItem from="1552808931114" duration="6017000" />
       <workItem from="1552876448757" duration="6575000" />
+      <workItem from="1552960880036" duration="78000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97573000" />
+    <option name="totallyTimeSpent" value="97651000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -422,7 +453,7 @@
     <frame x="0" y="-2" width="1440" height="902" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16523606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16738197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -600,9 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="43" column="48" selection-start-line="43" selection-start-column="48" selection-end-line="43" selection-end-column="48" />
-          <folding>
-            <element signature="e#1252#1266#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,16 +690,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/opencv3/include/opencv2/calib3d.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="1652" column="22" selection-start-line="1652" selection-start-column="22" selection-end-line="1652" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/opencv3/include/opencv2/core/affine.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="3144">
           <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="34" />
           <folding>
             <element signature="e#10443#10455#0" expanded="true" />
@@ -681,19 +702,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/myslam/visual_odometry.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-          <folding>
-            <element signature="e#836#870#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/opencv3/include/opencv2/core/mat.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
+        <state relative-caret-position="19608">
           <caret line="817" column="38" selection-start-line="817" selection-start-column="38" selection-end-line="817" selection-end-column="38" />
           <folding>
             <element signature="e#19241#19255#0" expanded="true" />
@@ -701,9 +712,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/frame.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/myslam/visual_odometry.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1032">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+          <folding>
+            <element signature="e#836#870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/opencv3/include/opencv2/core/mat.inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32784">
+          <caret line="1366" selection-start-line="1366" selection-end-line="1366" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file:///usr/local/opencv3/include/opencv2/core/matx.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
+        <state relative-caret-position="15912">
           <caret line="663" column="17" selection-start-line="663" selection-start-column="17" selection-end-line="663" selection-end-column="17" />
           <folding>
             <element signature="e#4226#4254#0" expanded="true" />
@@ -711,34 +746,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/frame.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="43" column="49" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/opencv3/include/opencv2/core/mat.inl.hpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="1366" selection-start-line="1366" selection-end-line="1366" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/run_vo.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="140" selection-start-line="140" selection-end-line="140" />
-          <folding>
-            <element signature="e#57#75#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/visual_odometry.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
+        <state relative-caret-position="5472">
           <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/opencv3/include/opencv2/calib3d.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39648">
+          <caret line="1652" column="22" selection-start-line="1652" selection-start-column="22" selection-end-line="1652" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -749,6 +767,13 @@
           <folding>
             <element signature="e#818#833#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/run_vo.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="96" column="10" lean-forward="true" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="35" />
         </state>
       </provider>
     </entry>

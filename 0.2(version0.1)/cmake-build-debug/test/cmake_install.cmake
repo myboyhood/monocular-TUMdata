@@ -1,4 +1,4 @@
-# Install script for directory: /home/wzy/slambook/ch9/0.2(version0.1)/test
+# Install script for directory: /home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

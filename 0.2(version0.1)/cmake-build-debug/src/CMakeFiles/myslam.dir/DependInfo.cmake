@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/wzy/slambook/ch9/0.2(version0.1)/src/camera.cpp" "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/camera.cpp.o"
-  "/home/wzy/slambook/ch9/0.2(version0.1)/src/config.cpp" "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/config.cpp.o"
-  "/home/wzy/slambook/ch9/0.2(version0.1)/src/frame.cpp" "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/frame.cpp.o"
-  "/home/wzy/slambook/ch9/0.2(version0.1)/src/mappoint.cpp" "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/mappoint.cpp.o"
-  "/home/wzy/slambook/ch9/0.2(version0.1)/src/visual_odometry.cpp" "/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/visual_odometry.cpp.o"
+  "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/camera.cpp" "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/camera.cpp.o"
+  "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/config.cpp" "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/config.cpp.o"
+  "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/frame.cpp" "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/frame.cpp.o"
+  "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/mappoint.cpp" "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/mappoint.cpp.o"
+  "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/visual_odometry.cpp" "/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/CMakeFiles/myslam.dir/visual_odometry.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -5,48 +5,48 @@
 		<Option title="myslam"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\usr\local\opencv3\;CMake Files\..\..\..\..\..\usr\local\opencv3\share\;CMake Files\..\..\..\..\..\usr\local\opencv3\share\OpenCV\;CMake Files\..\..\..\Sophus\;CMake Files\..\..\..\Sophus\build\;CMake Files\cmake_modules\;CMake Files\src\;CMake Files\test\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\opencv3\;CMake Files\..\..\..\..\..\..\usr\local\opencv3\share\;CMake Files\..\..\..\..\..\..\usr\local\opencv3\share\OpenCV\;CMake Files\..\..\..\..\Sophus\;CMake Files\..\..\..\..\Sophus\build\;CMake Files\cmake_modules\;CMake Files\src\;CMake Files\test\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug"/>
+				<Option working_dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug"/>
+				<Option working_dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug"/>
+				<Option working_dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="myslam">
-				<Option output="/home/wzy/slambook/ch9/0.2(version0.1)/lib/libmyslam.so" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src"/>
+				<Option output="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/lib/libmyslam.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src"/>
 				<Option object_output="./"/>
 				<Option type="3"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/usr/include/eigen3"/>
 					<Add directory="/home/wzy/Sophus"/>
-					<Add directory="/home/wzy/slambook/ch9/0.2(version0.1)/include"/>
+					<Add directory="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/include"/>
 					<Add directory="/usr/local/opencv3/include"/>
 					<Add directory="/usr/local/opencv3/include/opencv"/>
 					<Add directory="/usr/include/c++/7"/>
@@ -59,22 +59,22 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 myslam"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 myslam"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="myslam/fast">
-				<Option output="/home/wzy/slambook/ch9/0.2(version0.1)/lib/libmyslam.so" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src"/>
+				<Option output="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/lib/libmyslam.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src"/>
 				<Option object_output="./"/>
 				<Option type="3"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/usr/include/eigen3"/>
 					<Add directory="/home/wzy/Sophus"/>
-					<Add directory="/home/wzy/slambook/ch9/0.2(version0.1)/include"/>
+					<Add directory="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/include"/>
 					<Add directory="/usr/local/opencv3/include"/>
 					<Add directory="/usr/local/opencv3/include/opencv"/>
 					<Add directory="/usr/include/c++/7"/>
@@ -87,22 +87,22 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 myslam/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 myslam/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="run_vo">
-				<Option output="/home/wzy/slambook/ch9/0.2(version0.1)/bin/run_vo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/wzy/slambook/ch9/0.2(version0.1)/bin"/>
+				<Option output="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/bin/run_vo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/usr/include/eigen3"/>
 					<Add directory="/home/wzy/Sophus"/>
-					<Add directory="/home/wzy/slambook/ch9/0.2(version0.1)/include"/>
+					<Add directory="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/include"/>
 					<Add directory="/usr/local/opencv3/include"/>
 					<Add directory="/usr/local/opencv3/include/opencv"/>
 					<Add directory="/usr/include/c++/7"/>
@@ -115,22 +115,22 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 run_vo"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 run_vo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="run_vo/fast">
-				<Option output="/home/wzy/slambook/ch9/0.2(version0.1)/bin/run_vo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/wzy/slambook/ch9/0.2(version0.1)/bin"/>
+				<Option output="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/bin/run_vo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/usr/include/eigen3"/>
 					<Add directory="/home/wzy/Sophus"/>
-					<Add directory="/home/wzy/slambook/ch9/0.2(version0.1)/include"/>
+					<Add directory="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/include"/>
 					<Add directory="/usr/local/opencv3/include"/>
 					<Add directory="/usr/local/opencv3/include/opencv"/>
 					<Add directory="/usr/include/c++/7"/>
@@ -143,56 +143,56 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 run_vo/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/slambook/ch9/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 run_vo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake-build-debug/test/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/src/camera.cpp">
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/camera.cpp">
 			<Option target="myslam"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/src/config.cpp">
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/config.cpp">
 			<Option target="myslam"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/src/frame.cpp">
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/frame.cpp">
 			<Option target="myslam"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/src/mappoint.cpp">
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/mappoint.cpp">
 			<Option target="myslam"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/src/visual_odometry.cpp">
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/visual_odometry.cpp">
 			<Option target="myslam"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/test/run_vo.cpp">
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/test/run_vo.cpp">
 			<Option target="run_vo"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/CMakeLists.txt">
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/../../../../../usr/local/opencv3/share/OpenCV/OpenCVConfig-version.cmake">
-			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\opencv3\share\OpenCV\"/>
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/../../../../../../usr/local/opencv3/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv3\share\OpenCV\"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/../../../../../usr/local/opencv3/share/OpenCV/OpenCVConfig.cmake">
-			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\opencv3\share\OpenCV\"/>
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/../../../../../../usr/local/opencv3/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv3\share\OpenCV\"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/../../../../../usr/local/opencv3/share/OpenCV/OpenCVModules-release.cmake">
-			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\opencv3\share\OpenCV\"/>
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/../../../../../../usr/local/opencv3/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv3\share\OpenCV\"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/../../../../../usr/local/opencv3/share/OpenCV/OpenCVModules.cmake">
-			<Option virtualFolder="CMake Files\..\..\..\..\..\usr\local\opencv3\share\OpenCV\"/>
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/../../../../../../usr/local/opencv3/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\opencv3\share\OpenCV\"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/../../../Sophus/build/SophusConfig.cmake">
-			<Option virtualFolder="CMake Files\..\..\..\Sophus\build\"/>
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/../../../../Sophus/build/SophusConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\Sophus\build\"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/cmake_modules/FindG2O.cmake">
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/cmake_modules/FindG2O.cmake">
 			<Option virtualFolder="CMake Files\cmake_modules\"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/src/CMakeLists.txt">
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/src/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\"/>
 		</Unit>
-		<Unit filename="/home/wzy/slambook/ch9/0.2(version0.1)/test/CMakeLists.txt">
+		<Unit filename="/home/wzy/github_project/monocular-VO/monocular-TUMdata/0.2(version0.1)/test/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\test\"/>
 		</Unit>
 	</Project>
